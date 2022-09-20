@@ -1,0 +1,15 @@
+.home{
+    display:flex;
+    justify-content: center;
+    margin-top: 10rem;
+}
+
+.home Button{
+    margin-left: 1rem;
+}
+
+.userData{
+    display: flex;
+    justify-content: center;
+}
+

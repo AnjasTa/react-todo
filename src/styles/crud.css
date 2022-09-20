@@ -1,0 +1,23 @@
+.crudHeading{
+display: flex;
+justify-content: center;
+padding-top: 3rem;
+font-weight: bold;
+font-size: large;
+}
+
+.addInput{
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+
+Button{
+    margin-left: 1rem;
+}
+
+.userList{
+    display: flex;
+    justify-content: center;
+    padding-top: 3rem;
+}
